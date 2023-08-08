@@ -18,4 +18,4 @@ Your task is to utilize Discover's [RoverAPI](https://github.com/DiscoverCCRI/Ro
 
 ### Resources
 
-The documentation for the RoverAPI can be found [here](link to api documentation here.
+The documentation for the RoverAPI can be found [here](https://discoverccri.github.io/rover_api.html).
