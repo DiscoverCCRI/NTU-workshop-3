@@ -8,7 +8,7 @@ All of the information you will need to successfully build the rovers can be fou
 
 ## Programming the Rovers
 
-The slides used in this workshop can be found [here] TODO: link to power point.
+The slides used in this workshop can be found [here](https://docs.google.com/presentation/d/1xyJYGWgstGPIAMLqOYLduyhFL96OdaPc/edit?usp=sharing&ouid=108201346687987838551&rtpof=true&sd=true).
 
 All of the sample code can be found in the samples directory.
 
