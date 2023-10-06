@@ -12,6 +12,8 @@ def add_marker(markers, marker_id, marker_distance, camera):
         camera.get_jpg()        
         log_marker(marker_id, marker_distance, len(markers))
 
+        print(f"I found {marker_id}.\n")
+
 
 def log_marker(marker_id, marker_distance, num_markers):
     with open("/experiment/catalog.md", "a+", encoding="utf-8") as outfile:
